@@ -1,7 +1,7 @@
 # 알고리즘 스터디
 
-1. 바킹독의 실전 알고리즘 강의(https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
-2. 백준 온라인 저지 (Code.Plus)강의 (https://code.plus/)
+1. [바킹독의 실전 알고리즘 강의](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
+2. [백준 온라인 저지 (Code.Plus)강의](https://code.plus/)
 
 # 문제집
  주제 | 진행도 |
