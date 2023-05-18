@@ -5,24 +5,7 @@
 3. [FastCmpus 류호석 강의](https://fastcampus.co.kr/)
 
 # 문제 및 풀이
- 주제 | 진행도 | 풀이 |
- :--: | :--: | :--: |
-[자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/40) | <ul><li> - []</li></ul> |
-[정렬](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/10) |  |
-<table>
-  <tr>
-    <th>주제</th>
-    <th>진행도</th>
-    <th>풀이</th>
-  </tr>
-  <tr>
-    <td><a href="/자료구조/solution.md">자료구조</a></td>
-    <td><progress value="0" max="40"></progress></td>
-    <td><input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td><a href="/자료구조/solution.md">정렬</a></td>
-    <td><progress value="0" max="10"></progress></td>
-    <td><input type="checkbox"></td>
-  </tr>
-</table>
+ 주제 | 진행도 |  
+ :--: | :--: |
+[자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/40) |
+[정렬](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/10) |
