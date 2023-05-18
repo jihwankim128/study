@@ -7,5 +7,5 @@
 # 문제 및 풀이
  주제 | 진행도 | 풀이 |
  :--: | :--: | :--: |
-[자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/40) |- [x]|
+[자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/40) |[ ]|
 [정렬](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/10) |
