@@ -7,6 +7,5 @@
 # 문제집
  주제 | 진행도 |
  :--: | :--: |
-기초 코드 작성 요령 I (문제집 X) | |
 [자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/40) |
-[정렬](/자료구조/solution.md) | ![100%](https://progress-bar.dev/5/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
+[정렬](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/10) |
