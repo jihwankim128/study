@@ -1,6 +1,6 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 완료 | 김지환 | 김범조 | 이예은 | ??? |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 강의 문제 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | <ul><li> -[ ] </li></ul> | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) |
 | 기본 문제 | 10773 | [제로](https://www.acmicpc.net/problem/10773) | <ul><li> -[ ] </li></ul> | [정답 코드](../0x05/solutions/10773.cpp) | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) |
 | 응용 문제 | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | <ul><li> -[ ] </li></ul> | [정답 코드](../0x05/solutions/1874.cpp) | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) | [정답 코드](../solution/example.cpp) |
