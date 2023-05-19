@@ -10,3 +10,7 @@
 | 기본 문제 | 13300 | [방 배정](https://www.acmicpc.net/problem/13300) | <ul><li> -[ ] </li></ul> | [정답 코드](../0x03/solutions/13300.cpp) | [정답 코드](../0x03/solutions/10808.cpp) | [정답 코드](../0x03/solutions/10808.cpp) | [정답 코드](../0x03/solutions/10808.cpp) |
 | 기본 문제 | 11328 | [Strfry](https://www.acmicpc.net/problem/11328) | <ul><li> -[ ] </li></ul> | [정답 코드](../0x03/solutions/11328.cpp) | [정답 코드](../0x03/solutions/10808.cpp) | [정답 코드](../0x03/solutions/10808.cpp) | [정답 코드](../0x03/solutions/10808.cpp) |
 | 기본 문제 | 1919 | [애너그램 만들기](https://www.acmicpc.net/problem/1919) | <ul><li> -[ ] </li></ul> | [정답 코드](../0x03/solutions/1919.cpp) | [정답 코드](../0x03/solutions/10808.cpp) | [정답 코드](../0x03/solutions/10808.cpp) | [정답 코드](../0x03/solutions/10808.cpp) |
+
+# 추가 문제
+| 문제 분류 | 문제 | 문제 제목 | 완료 | 김지환 | 김범조 | 이예은 | ??? |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
