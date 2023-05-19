@@ -1,9 +1,5 @@
 # 배열
 
-![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
-
-[문제집 링크](https://www.acmicpc.net/workbook/view/7307)
-
 | 문제 분류 | 문제 | 문제 제목 | 완료 | 정답 코드 |
 | :--: | :--: | :--: | :--: | :--: |
 | 연습 문제 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | <ul><li> -[ ] </li></ul> | [정답 코드](../0x03/solutions/10808.cpp) |
