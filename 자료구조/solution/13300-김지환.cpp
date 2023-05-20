@@ -24,7 +24,6 @@ void solve() {
 	for(int i = 1; i<=6; i++) {
 		if(arr[i][1]%k == 0) boy += arr[i][1]/k;
 		else boy += arr[i][1]/k + 1;
-		
 		if(arr[i][0]%k == 0) girl += arr[i][0]/k; 
 		else girl += arr[i][0]/k + 1;
 	}
