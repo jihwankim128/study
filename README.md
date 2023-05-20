@@ -8,7 +8,7 @@
 # 문제 및 풀이
  주제 | 진행도 |  
  :--: | :--: |
-[자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/0/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
+[자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/8/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
 [탐색 알고리즘](/탐색/solution.md) | ![100%](https://progress-bar.dev/0/?scale=88&title=progress&width=500&color=babaca&suffix=/88) |
 [알고리즘 기법](/알고리즘기법/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/10) |
 [수학적 개념](/수학/solution.md) | ![100%](https://progress-bar.dev/0/?scale=40&title=progress&width=500&color=babaca&suffix=/10) |
