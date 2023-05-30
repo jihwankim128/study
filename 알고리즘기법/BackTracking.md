@@ -1,18 +1,28 @@
-# 재귀
+# 백트래킹
 
-![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
 
-[문제집 링크](https://www.acmicpc.net/workbook/view/7314)
+[문제집 링크](https://www.acmicpc.net/workbook/view/7315)
 
 | 문제 분류 | 문제 | 문제 제목 | 김범조 | 김지환 | 김효원 | 이예은 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 연습 문제 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 연습 문제 | 1074 | [Z](https://www.acmicpc.net/problem/1074) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 응용 문제✔ | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 응용 문제✔ | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 응용 문제 | 14956 | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 연습 문제 | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 연습 문제 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 연습 문제 | 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 6603 | [로또](https://www.acmicpc.net/problem/6603) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 응용 문제✔ | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 응용 문제✔ | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 응용 문제 | 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 응용 문제 | 1799 | [비숍](https://www.acmicpc.net/problem/1799) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
