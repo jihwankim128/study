@@ -1,6 +1,6 @@
 # 배열
 
-| 문제 분류 | 문제 | 문제 제목 | 완료 | 김지환 | 김범조 | 김효 | 이예은 |
+| 문제 분류 | 문제 | 문제 제목 | 완료 | 김지환 | 김범조 | 김효원 | 이예은 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 연습 문제 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) |<ul><li> -[x] </li></ul> | [정답 코드](/자료구조/solution/10808-김지환.cpp) | [정답 코드]  | [정답 코드](https://github.com/evelyn-Kim/codingtest/blob/master/%EB%B0%B0%EC%97%B4/10808_myo.py) | [정답 코드] |
 | 기본 문제 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | <ul><li> -[x] </li></ul> | [정답 코드](/자료구조/solution/2577-김지환.cpp) | [정답 코드] | [정답 코드](https://github.com/evelyn-Kim/codingtest/blob/master/%EB%B0%B0%EC%97%B4/2577_myo.py) | [정답 코드] |
