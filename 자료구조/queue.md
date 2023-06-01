@@ -5,8 +5,8 @@
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7310)
 
-| 문제 분류 | 문제 | 문제 제목 | 완료 | 김지환 | 김범조 | 이예은 | 김효원 |
+| 문제 분류 | 문제 | 문제 제목 | 완료 | 김지환 | 김범조 | 김효원 | 이예은 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 연습 문제 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | <ul><li> -[ ] </li></ul> | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | <ul><li> -[ ] </li></ul> | [정답 코드](/자료구조/solution/18258-김지환.cpp) | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | <ul><li> -[ ] </li></ul> | [정답 코드](/자료구조/solution/2164-김지환.cpp) | [정답 코드] | [정답 코드] | [정답 코드] |
+| 연습 문제 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | <ul><li> -[ ] </li></ul> | [정답 코드] | [정답 코드] | [정답 코드](https://github.com/evelyn-Kim/codingtest/blob/master/%ED%81%90/10845.py) | [정답 코드] |
+| 기본 문제✔ | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | <ul><li> -[ ] </li></ul> | [정답 코드](/자료구조/solution/18258-김지환.cpp) | [정답 코드] | [정답 코드](https://github.com/evelyn-Kim/codingtest/blob/master/%ED%81%90/18258.py) | [정답 코드] |
+| 기본 문제✔ | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | <ul><li> -[ ] </li></ul> | [정답 코드](/자료구조/solution/2164-김지환.cpp) | [정답 코드] | [정답 코드](https://github.com/evelyn-Kim/codingtest/blob/master/%ED%81%90/2164.py) | [정답 코드] |
