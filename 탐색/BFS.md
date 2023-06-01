@@ -6,7 +6,7 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 김범조 | 김지환 | 김효원 | 이예은 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | [정답 코드] | [정답 코드](/탐색/solution/1926-김지환.cpp) | [정답 코드] | [정답 코드] |
+| 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | [정답 코드] | [정답 코드](/탐색/solution/1926-김지환.cpp) | [정답 코드](https://github.com/evelyn-Kim/codingtest/blob/master/%EC%9E%AC%EA%B7%80/1926.py)) | [정답 코드] |
 | 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [정답 코드] | [정답 코드](/탐색/solution/2178-김지환.cpp) | [정답 코드] | [정답 코드] |
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [정답 코드] | [정답 코드](/탐색/solution/7576-김지환.cpp) | [정답 코드] | [정답 코드] |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) | [정답 코드] | [정답 코드](/탐색/solution/4179-김지환.cpp) | [정답 코드] | [정답 코드] |
