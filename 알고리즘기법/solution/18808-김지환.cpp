@@ -1,6 +1,6 @@
 //acmicpc 18808
 //authored by jihwankim
-//2023-06-08 AM 12:20
+//2023-06-08 PM 12:20
 
 #include <bits/stdc++.h>
 #define x first
@@ -29,7 +29,7 @@ void input() {
 	}	
 }
 
-// ½Ã°è¹æÇâ 90µµ È¸Àü 
+// ì‹œê³„ë°©í–¥ 90ë„ íšŒì „ 
 void rotate(int arr1[41][41], int arr2[41][41], int &x, int &y) {
 	for(int i = 0; i<y; i++) {
 		for(int j = 0; j<x; j++) {
@@ -52,7 +52,7 @@ void swap(int &a, int &b) {
 	b = temp;
 }
 
-// ¹è¿­ Ãâ·Â debugging ¿ë 
+// ë°°ì—´ ì¶œë ¥ debugging ìš© 
 void print(int arr[41][41], int &x, int &y) {
 	for(int i = 0; i<x ;i++) {
 		for(int j = 0; j<y; j++) {
@@ -63,13 +63,13 @@ void print(int arr[41][41], int &x, int &y) {
 	
 }
 
-// ¹üÀ§ ³» Ã¼Å© 
+// ë²”ìœ„ ë‚´ ì²´í¬ 
 bool vaild(int &x, int &y) {
 	if(x > n || y > m) return true;
 	return false;
 }
 
-// °¡ÁöÄ¡±â, ºÙÀÏ ¼ö ÀÖ´Â ½ºÆ¼Ä¿ÀÎÁö check 
+// ê°€ì§€ì¹˜ê¸°, ë¶™ì¼ ìˆ˜ ìˆëŠ” ìŠ¤í‹°ì»¤ì¸ì§€ check 
 bool promising(int note[41][41], int sticker[41][41], int nx, int ny, int x, int y) {
 	for(int i = 0; i<x; i++) {
 		for(int j = 0; j<y; j++) {
@@ -84,7 +84,7 @@ bool promising(int note[41][41], int sticker[41][41], int nx, int ny, int x, int
 }
 
 void solve(int note[41][41], int idx) {
-	// k ¹ø ½ºÆ¼Ä¿¸¦ ´Ù ½ÃµµÇßÀ» °æ¿ì 
+	// k ë²ˆ ìŠ¤í‹°ì»¤ë¥¼ ë‹¤ ì‹œë„í–ˆì„ ê²½ìš° 
 	if(idx == k) {
 		kcnt++;
 		int cnt = 0;
@@ -104,7 +104,7 @@ void solve(int note[41][41], int idx) {
 	copy(nnote, note, n, m);
 	
 	for(int z = 0; z<4; z++){
-		//90µµ ¾¿ È¸Àü 
+		//90ë„ ì”© íšŒì „ 
 		if(z>0) {
 			copy(nsticker, stickers[idx], x, y);
 			rotate(stickers[idx], nsticker, x, y);
