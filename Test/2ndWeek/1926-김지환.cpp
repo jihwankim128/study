@@ -23,19 +23,18 @@ void input() {
 int bfs(int a, int b) {
 	queue<pair<int, int> > q;
 	q.push({a, b});
-	int cnt = 1;
+	int cnt = 0;
 	arr[a][b] = 0;
 	
 	while(!q.empty()) {
-		int x = q.front().x; 
+		int x = q.front().x; cnt++;
 		int y = q.front().y; q.pop();
 		for(int i = 0; i<4; i++) {
 			int nx = x + dx[i];
 			int ny = y + dy[i];
 			if(nx < 0 || nx >= n) continue;
-			if(ny < 0 || ny >= n) continue;
+			if(ny < 0 || ny >= m) continue;
 			if(arr[nx][ny] == 0) continue;
-			cnt++;
 			arr[nx][ny] = 0;
 			q.push({nx, ny});
 		}

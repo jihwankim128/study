@@ -9,38 +9,30 @@ using namespace std;
 int n;
 int stu[100001];
 bool visited[100001];
-bool notCycle[100001];
 bool cycleChk[100001];
 
 void input() {
 	cin >> n;
 	for(int i = 1; i<=n; i++) {
 		cin >> stu[i];
-		notCycle[i] = false;
 		cycleChk[i] = false;
 	}
 }
 
 bool cycle(int num) {
 	queue<int> q;
-	vector<int> v;
+	for(int i = 1; i<=n; i++) {
+		visited[i] = false;
+	}
 	q.push(num);
 	visited[num] = true;
 	
 	while(!q.empty()) {
 		int x = stu[q.front()];
-		v.push_back(x);
 		q.pop();
-		
-		if(notCycle[x]) return false;
-		
+		if(cycleChk[x] == true) return false;
 		if(visited[x]) {
-			if(num == x) {
-				for(int i = 0; i<v.size(); i++) {
-					cycleChk[v[i]] = true;
-				}
-				return true;
-			}
+			if(x == num) return true;
 			continue;
 		}
 		visited[x] = true;
@@ -53,12 +45,12 @@ bool cycle(int num) {
 void solve() {
 	int cnt = 0;
 	for(int i = 1; i<=n; i++) {
-		if(cycleChk[i]) {
+		if(cycle(i)) {
 			cnt++;
-			continue;
 		}
-		if(cycle(i)) 	cnt++;
-		else notCycle[i] = true;
+		else {
+			cycleChk[i] = true;
+		}
 	}
 	cout << n-cnt << "\n";
 }
