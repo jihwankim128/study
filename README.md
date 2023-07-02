@@ -10,7 +10,7 @@
  :--: | :--: |
 [자료구조](/자료구조/solution.md) | ![100%](https://progress-bar.dev/26/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
 [탐색 알고리즘](/탐색/solution.md) | ![100%](https://progress-bar.dev/11/?scale=59&title=progress&width=500&color=babaca&suffix=/59) |
-[알고리즘 기법](/알고리즘기법/solution.md) | ![100%](https://progress-bar.dev/54/?scale=82&title=progress&width=500&color=babaca&suffix=/82) |
+[알고리즘 기법](/알고리즘기법/solution.md) | ![100%](https://progress-bar.dev/54/?scale=176&title=progress&width=500&color=babaca&suffix=/176) |
 [MST](/MST/solution.md) | ![100%](https://progress-bar.dev/0/?scale=38&title=progress&width=500&color=babaca&suffix=/38) |
 [수학적 개념](/수학/solution.md) | ![100%](https://progress-bar.dev/0/?scale=39&title=progress&width=500&color=babaca&suffix=/39) |
 
