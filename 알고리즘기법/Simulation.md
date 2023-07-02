@@ -1,6 +1,6 @@
 # 시뮬레이션
 
-![100%](https://progress-bar.dev/4/?scale=61&title=progress&width=500&color=babaca&suffix=/61)
+![100%](https://progress-bar.dev/8/?scale=61&title=progress&width=500&color=babaca&suffix=/61)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7316)
 
@@ -10,7 +10,7 @@
 | 연습 문제 | 18808 | [스티커 붙이기](https://www.acmicpc.net/problem/18808) | [정답 코드] | [정답 코드](/알고리즘기법/solution/18808-김지환.cpp) | [정답 코드] | [정답 코드] |
 | 연습 문제 | 12100 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [정답 코드] | [정답 코드](/알고리즘기법/solution/12100-김지환.cpp) | [정답 코드] | [정답 코드] |
 | 연습 문제 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [정답 코드] | [정답 코드](/알고리즘기법/solution/15686-김지환.cpp) | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [정답 코드] | [정답 코드](/알고리즘기법/solution/11559-김지환.cpp) | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 13335 | [트럭](https://www.acmicpc.net/problem/13335) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
@@ -19,15 +19,15 @@
 | 기본 문제✔ | 3190 | [뱀](https://www.acmicpc.net/problem/3190) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 13460 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제✔ | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | [정답 코드] | [정답 코드](https://github.com/jihwankim128/algorithm/blob/main/boj/gold/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/14502%20(%EC%97%B0%EA%B5%AC%EC%86%8C).cpp) | [정답 코드] | [정답 코드] |
+| 기본 문제✔ | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [정답 코드] | [정답 코드](https://github.com/jihwankim128/algorithm/blob/main/boj/silver/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14888%20(%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0).cpp) | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제✔ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제 | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
-| 기본 문제 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
+| 기본 문제 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | [정답 코드] | [정답 코드](/알고리즘기법/solution/16234-김지환.cpp) | [정답 코드] | [정답 코드] |
 | 기본 문제 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
 | 기본 문제 | 17140 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [정답 코드] | [정답 코드] | [정답 코드] | [정답 코드] |
