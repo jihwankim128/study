@@ -1,71 +1,65 @@
-// acmicpc.net/problem/9466
-// authored by kimjihwan
-// 2023-06-09 PM 03:01 
+//acm 9466
+//authored by jihwankim
+// 06-14 AM 03:14
 
 #include <bits/stdc++.h>
-#define x first
-#define y second
 
-using namespace std; 
+using namespace std;
 
-int n, t;
+int n;
 int stu[100001];
-bool cycleChk[100001];
 bool visited[100001];
+bool cycleChk[100001];
 
 void input() {
 	cin >> n;
 	for(int i = 1; i<=n; i++) {
 		cin >> stu[i];
-		cycleChk[i] = visited[i] = false;
-	}	
+		cycleChk[i] = false;
+	}
 }
 
-bool cycle(int x) {
+bool cycle(int num) {
 	queue<int> q;
-	q.push(stu[x]);
-	visited[x] = true;
-	vector<int> cycles;
-	cycles.push_back(x);
+	for(int i = 1; i<=n; i++) {
+		visited[i] = false;
+	}
+	q.push(num);
+	visited[num] = true;
 	
 	while(!q.empty()) {
-		int v = q.front(); q.pop();
-		cycles.push_back(v);
-		if(cycleChk[v]) return false;
-		if(visited[v]) {
-			if(v == x) {
-				for(int i = 0; i<cycles.size(); i++) {
-					cycleChk[cycles[i]] = true;
-				}
-				return true;
-			}
+		int x = stu[q.front()];
+		q.pop();
+		if(cycleChk[x] == true) return false;
+		if(visited[x]) {
+			if(x == num) return true;
 			continue;
 		}
-		visited[v] = true;
-		q.push(stu[v]);
+		visited[x] = true;
+		q.push(x);
 	}
+	
 	return false;
 }
 
 void solve() {
 	int cnt = 0;
 	for(int i = 1; i<=n; i++) {
-		if(cycleChk[i]) {
-			cnt++;
-			continue;
-		}
 		if(cycle(i)) {
 			cnt++;
 		}
-		else cycleChk[i] = true;
+		else {
+			cycleChk[i] = true;
+		}
 	}
-	cout << n - cnt << "\n";
+	cout << n-cnt << "\n";
 }
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(NULL);
 	
+	int t;
 	cin >> t;
 	while(t--) {
 		input();
