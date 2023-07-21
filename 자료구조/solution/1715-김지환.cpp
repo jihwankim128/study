@@ -33,6 +33,8 @@ int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(NULL);
 	
+	//freopen("input.txt", "r", stdin);
+	//최대 비교 횟수 16~17억 
 	input();
 	solve();
 		
