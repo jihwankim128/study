@@ -1,3 +1,7 @@
+//acmicpc 22862
+//authored by jihwankim
+//23-07-12 AM 04:22
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -19,8 +23,8 @@ void solve() {
 	
 	for(left, right; right<n; right++) {
 		if(arr[right] % 2) {
-			//í™€ìˆ˜ì¼ ê²½ìš°
-			//í™€ìˆ˜ì œê±° ê°œìˆ˜ê°€ kì™€ ê°™ë‹¤ë©´ ë‹¤ìŒ í™€ìˆ˜ë¶€í„°ì˜ ê¸¸ì´ 
+			//È¦¼öÀÏ °æ¿ì
+			//È¦¼öÁ¦°Å °³¼ö°¡ k¿Í °°´Ù¸é ´ÙÀ½ È¦¼öºÎÅÍÀÇ ±æÀÌ 
 			while(cnt == k) {
 				if(arr[left++]%2) cnt--;
 				else length--;
@@ -28,7 +32,7 @@ void solve() {
 			cnt++;
 		}
 		else {
-			//ì§ìˆ˜ì¼ ê²½ìš° 
+			//Â¦¼öÀÏ °æ¿ì 
 			length++;
 		}
 		max_len = max(max_len, length);
@@ -46,3 +50,5 @@ int main() {
 		
 	return 0;
 }
+
+//AM 04:41
