@@ -13,6 +13,7 @@
 [알고리즘 기법](/알고리즘기법/solution.md) | ![100%](https://progress-bar.dev/54/?scale=176&title=progress&width=500&color=babaca&suffix=/176) |
 [MST](/MST/solution.md) | ![100%](https://progress-bar.dev/0/?scale=38&title=progress&width=500&color=babaca&suffix=/38) |
 [수학적 개념](/수학/solution.md) | ![100%](https://progress-bar.dev/17/?scale=39&title=progress&width=500&color=babaca&suffix=/39) |
+[문자열 기초](/문자열/solution.md) | ![100%](https://progress-bar.dev/0/?scale=16&title=progress&width=500&color=babaca&suffix=/16) |
 
 # Git 기본 사용
 > [GitHub-Practice Site](https://learngitbranching.js.org/?locale=ko)
