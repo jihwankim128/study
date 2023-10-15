@@ -1,41 +1,28 @@
 // acmicpc.net/problem/10026
 // authored by kimjihwan
-// 2023-06-01 08:50
+// 2023-08-21 PM 11:18
 
 #include <bits/stdc++.h>
 
 using namespace std;
 
-int a, b, c;
 
-void input() {
-	cin >> a >> b >> c;
-}
-
-long long recur(int k) {
-    if(k<=1) return a%c;
-    long long num = recur(k/2);
-	num*=num;
-	num%=c;
-    if(k%2) {
-    	num*=a;
-    	num%=c;
-	} 
-	return num;
-}
-
-void solve() {
-	long long num = recur(b);
-	cout << num;
+long long solve(int a, int b, int c) {
+	if(b == 1) return a % c;
+	long long prod = solve(a, b/2, c);
+	prod = (prod * prod) % c;
+ 	if(b % 2) return (prod * a) % c;
+	return prod % c;
 }
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
 	
-	input();
-	solve();
+	int a, b, c;
+	cin >> a >> b >> c;
+	cout << solve(a, b, c) % c;
 	
 	return 0;
 }
-// AM 09:40
+// PM 11:32
