@@ -1,8 +1,4 @@
-# 플로이드 알고리즘
-
-![100%](https://progress-bar.dev/0/?scale=15&title=progress&width=500&color=babaca&suffix=/15)
-
-[문제집 링크](https://www.acmicpc.net/workbook/view/10318)
+# 플로이드 알고리즘 - 바킹도긴ㅁ 문제집
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
@@ -21,3 +17,9 @@
 | 응용 문제 | 13141 | [Ignition](https://www.acmicpc.net/problem/13141) | [정답 코드] |
 | 응용 문제 | 23258 | [밤편지](https://www.acmicpc.net/problem/23258) | [정답 코드] |
 | 응용 문제 | 1602 | [도망자 원숭이](https://www.acmicpc.net/problem/1602) | [정답 코드] |
+
+---
+
+# 추가 문제
+- [플로이드 워셜](https://www.acmicpc.net/problemset?sort=ac_desc&algo=31)
+- [daejjyu님 문제집](https://www.acmicpc.net/workbook/view/3581)
