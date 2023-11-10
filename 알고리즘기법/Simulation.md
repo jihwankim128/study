@@ -63,3 +63,9 @@
 | 기본 문제 | 23290 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) | [정답 코드] |
 | 기본 문제 | 23291 | [어항 정리](https://www.acmicpc.net/problem/23291) | [정답 코드] | 
 | 기본 문제 | 2478 | [자물쇠](https://www.acmicpc.net/problem/2478) | [정답 코드] |
+
+--- 
+# 추가 문제
+- [soo7652님 문제집](https://www.acmicpc.net/workbook/view/7741)
+- [sukwoo0711님 문제집](https://www.acmicpc.net/workbook/view/1670)
+- [시뮬레이션](https://www.acmicpc.net/problemset?sort=ac_desc&algo=141)
