@@ -1,8 +1,4 @@
-# 최소 신장 트리
-
-![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)
-
-[문제집 링크](https://www.acmicpc.net/workbook/view/9907)
+# 최소 신장 트리 - 바킹독님 문제집
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
@@ -15,3 +11,9 @@
 | 응용 문제✔ | 1774 | [우주신과의 교감](https://www.acmicpc.net/problem/1774) | [정답 코드] |
 | 응용 문제✔ | 10423 | [전기가 부족해](https://www.acmicpc.net/problem/10423) | [정답 코드] |
 | 응용 문제 | 2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | [정답 코드] |
+
+---
+
+# 추가 문제
+- [최소 스패닝 트리](https://www.acmicpc.net/problem/tag/49)
+- [cokcjswo님 문제집](https://www.acmicpc.net/workbook/view/956)
