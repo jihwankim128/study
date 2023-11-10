@@ -22,7 +22,3 @@
 - [그래프 탐색](https://www.acmicpc.net/problemset?sort=ac_desc&algo=11)
 - [방향 비순환 그래프](https://www.acmicpc.net/problemset?sort=ac_desc&algo=213)
 - [이분 그래프](https://www.acmicpc.net/problem/tag/197)
-- [평면 그래프](https://www.acmicpc.net/problem/tag/168)
-- [쌍대 그래프](https://www.acmicpc.net/problem/tag/181)
-- [함수형 그래프](https://www.acmicpc.net/problem/tag/211)
-- [현 그래프](https://www.acmicpc.net/problem/tag/201)
