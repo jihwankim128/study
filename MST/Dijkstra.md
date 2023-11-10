@@ -1,8 +1,4 @@
-# 다익스트라 알고리즘
-
-![100%](https://progress-bar.dev/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14)
-
-[문제집 링크](https://www.acmicpc.net/workbook/view/10433)
+# 다익스트라 알고리즘 - 바킹독님 문제집
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
@@ -20,3 +16,8 @@
 | 응용 문제 | 5719 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | [정답 코드] |
 | 응용 문제 | 13907 | [세금](https://www.acmicpc.net/problem/13907) | [정답 코드]  |
 | 응용 문제 | 22870 | [산책 (large)](https://www.acmicpc.net/problem/22870) | [정답 코드]  |
+
+---
+# 추가 문제
+- [snowman님 문제집](https://www.acmicpc.net/workbook/view/1711)
+- [dijkstra](https://www.acmicpc.net/problemset?sort=ac_desc&algo=22)
