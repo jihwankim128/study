@@ -1,10 +1,6 @@
-# 트라이
+# 트라이 - 바킹독님 문제집
 
-![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
-
-[문제집 링크](https://www.acmicpc.net/workbook/view/12649)
-
-| 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
+| 문제 분류 | 문제 | 문제 제목 | 풀이 |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | [정답 코드] |
 | 기본 문제✔ | 14426 | [접두사 찾기](https://www.acmicpc.net/problem/14426) | [정답 코드] |
@@ -16,3 +12,8 @@
 | 응용 문제✔ | 16906 | [욱제어](https://www.acmicpc.net/problem/16906) | [정답 코드] |
 | 응용 문제 | 5670 | [휴대폰 자판](https://www.acmicpc.net/problem/5670) | [정답 코드] |
 | 응용 문제 | 5446 | [용량 부족](https://www.acmicpc.net/problem/5446) | [정답 코드] |
+
+---
+
+# 추가 문제
+- [tony9402님 문제집](https://www.acmicpc.net/workbook/view/6785)
