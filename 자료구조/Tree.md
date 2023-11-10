@@ -25,4 +25,3 @@
 - [세그먼트 트리](https://www.acmicpc.net/problem/tag/65)
 - [트리를 사용한 집합과 맵](https://www.acmicpc.net/problem/tag/74)
 - [트리에서의 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/92)
-- [최소 스패닝 트리](https://www.acmicpc.net/problem/tag/49)
