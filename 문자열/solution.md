@@ -1,8 +1,4 @@
-# 문자열 기초
-
-![100%](https://progress-bar.dev/0/?scale=16&title=progress&width=500&color=babaca&suffix=/16)
-
-[문제집 링크](https://www.acmicpc.net/workbook/view/14409)
+# 문자열 기초 - 바킹독님 문제집
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
@@ -22,3 +18,6 @@
 | 기본 문제 | 6581 | [HTML](https://www.acmicpc.net/problem/6581) | - |
 | 기본 문제 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | - |
 | 기본 문제 | 1213 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | - |
+
+# 추가 문제
+- [문자열] (https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
