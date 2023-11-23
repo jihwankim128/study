@@ -20,3 +20,7 @@ def solve(k, idx) :
         solve(k+1, i)
 
 solve(0, 1)
+
+"""
+    N과 M 2에서 같은 원소를 1번 더 방문하는 차이
+"""
